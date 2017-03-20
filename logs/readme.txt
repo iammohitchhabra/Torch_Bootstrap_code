@@ -1,0 +1,1 @@
+The folder should contain the logs.
